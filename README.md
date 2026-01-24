@@ -24,26 +24,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🌾 Crop Recommendation System
-**Tech:** MERN Stack, Python, Machine Learning, Docker  
-- Built an AI-powered system to recommend optimal crops using soil and climate parameters  
-- Trained ML models in Python for real-time predictions  
-- Developed React + Tailwind frontend with JWT authentication & admin dashboard  
-- Deployed full application using Docker & Docker Compose  
-
----
-
-### 💬 SyncPad – Real-Time Collaborative Code Editor
-**Tech:** React, WebSockets, FastAPI, Docker  
-- Built real-time collaboration APIs using WebSockets  
-- Designed backend logic supporting 80+ concurrent users  
-- Ensured low-latency synchronization across multiple sessions  
-- Dockerized backend services for consistent deployments  
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, Python  
