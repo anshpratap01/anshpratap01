@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28112059/README.md)
+[README (1).md](https://github.com/user-attachments/files/28112139/README.1.md)
 <div align="center">
 
 ```
@@ -109,11 +109,15 @@ Built a **Web-Based Kanban Task Manager** in Angular with full drag-and-drop, re
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshpratap01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=anshpratap01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=anshpratap01&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshpratap01&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshpratap01&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpratap01&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
 
 </div>
 
