@@ -1,5 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/28112139/README.1.md)
-<div align="center">
+[README (2).md](https://github.com/user-attachments/files/28112184/README.2.md)<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════╗
@@ -107,19 +106,15 @@ Built a **Web-Based Kanban Task Manager** in Angular with full drag-and-drop, re
 
 ## `$ git log --stats`
 
-<div align="center">
+```
+┌──────────────────────────────────────────────────────────┐
+│  LeetCode Problems  │  580+  │  Rating        │  1704   │
+│  Day Streak         │  280+  │  GfG Problems  │  200+   │
+│  CGPA               │  8.27  │  AMCAT         │  85th%  │
+└──────────────────────────────────────────────────────────┘
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshpratap01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshpratap01&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpratap01&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
-
-</div>
+> 📌 Full commit history → [github.com/anshpratap01](https://github.com/anshpratap01)
 
 ---
 
