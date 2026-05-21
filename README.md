@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/28112184/README.2.md)<div align="center">
+[README (3).md](https://github.com/user-attachments/files/28115623/README.3.md)<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════╗
@@ -113,6 +113,12 @@ Built a **Web-Based Kanban Task Manager** in Angular with full drag-and-drop, re
 │  CGPA               │  8.27  │  AMCAT         │  85th%  │
 └──────────────────────────────────────────────────────────┘
 ```
+
+### ⚡ LeetCode
+
+<div align="center">
+  <img src="https://leetcard.vercel.app/itxansh?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</div>
 
 > 📌 Full commit history → [github.com/anshpratap01](https://github.com/anshpratap01)
 
