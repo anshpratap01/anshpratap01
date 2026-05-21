@@ -1,24 +1,128 @@
-# 💫 About Me:
- 👨‍💻 About Me<br> 🎓 B.Tech CSE (AIML) @ NIET, Greater Noida (CGPA: 8.20)<br> 💻 Full-Stack Developer with strong backend & real-time systems experience<br> 🌱 Currently learning **System Design, DevOps & scalable architectures**<br>🏆 Google Student Ambassador 2025 | GDG Core Team Member<br> 🔥UiPath Student Developer Champion
+[README.md](https://github.com/user-attachments/files/28112059/README.md)
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════╗
+║          hey, I'm Ansh — builder by instinct          ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ansh-pratap-93083133b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshpratap866@gmail.com) 
+# Ansh Pratap
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshpratap01&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anshpratap01&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshpratap01&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Backend Engineer · AI/ML Engineer · Competitive Programmer**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshpratap01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-pratap-93083133b)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anshpratap866@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/anshpratap01)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DmzMh-KeYTwFOi9z4S_EQVIAIMMApaOS/view?usp=sharing)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshpratap01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```yaml
+name:       Ansh Pratap
+location:   Greater Noida, India
+degree:     B.Tech CSE (AI/ML) @ NIET  |  CGPA: 8.27
+focus:      Distributed Systems · Backend Architecture · AI-powered Applications
+currently:  Learning System Design, DevOps & Scalable Architectures
+```
+
+I build things that **scale** — real-time collaborative editors, intelligent CI/CD platforms, AI-powered backends. I care about clean abstractions, fault-tolerant architecture, and shipping fast.
+
+---
+
+## `$ cat experience.log`
+
+### Infosys — Full-Stack Virtual Intern *(Jan 2025 – Jun 2025)*
+
+Built a **Web-Based Kanban Task Manager** in Angular with full drag-and-drop, real-time snackbar notifications, and a RESTful-ready service architecture — delivered ahead of schedule across 8-week Agile sprints.
+
+---
+
+## `$ ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Pipeline Sentinel
+**Intelligent CI/CD Failure Analysis & Prediction**
+
+`Node.js` `Python` `Next.js` `Docker` `PostgreSQL` `AWS` `Kubernetes`
+
+- AI-powered failure analysis via **Gemini API** — identifies root causes automatically
+- Distributed backend on **AWS + Kubernetes** for high availability
+- GitHub webhooks for real-time event-driven monitoring — reduced MTTR by **~30%**
+- Reusable abstraction layers cut redundant code by **40%**
+
+</td>
+<td width="50%" valign="top">
+
+### 🖊️ SyncPad
+**Real-Time Collaborative Code Editor**
+
+`React` `WebSockets` `FastAPI` `Node.js` `Docker` `Kubernetes` `GCP`
+
+- Supports **80+ concurrent users** with low-latency synchronized editing
+- Event-driven WebSocket architecture with reusable session/state modules
+- Deployed on **GCP** with automated CI/CD via GitHub Actions
+- Code duplication reduced by **30%** via shared abstractions
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat skills.json`
+
+```json
+{
+  "languages":  ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  "frontend":   ["React.js", "Next.js", "Angular", "TailwindCSS"],
+  "backend":    ["Node.js", "FastAPI", "WebSockets", "REST APIs", "Microservices"],
+  "databases":  ["PostgreSQL", "MongoDB", "MySQL", "Cassandra"],
+  "devops":     ["Docker", "Kubernetes", "AWS", "GCP", "GitHub Actions", "CI/CD"],
+  "concepts":   ["DSA", "System Design", "OOP", "Agile/Scrum", "Distributed Systems"]
+}
+```
+
+---
+
+## `$ cat achievements.txt`
+
+```
+✦  LeetCode      → 580+ problems solved | Rating 1704 | 280+ day streak
+✦  GeeksforGeeks → 200+ DSA problems solved
+✦  AMCAT Score   → 85th Percentile (national engineering benchmark)
+✦  Google Student Ambassador (2025) — led AI & cloud workshops for 100+ students
+✦  UiPath Student Developer Champion (2024–25) — promoted RPA automation best practices
+✦  Top 30 / 2500+ — NFC Inter-College Competitive Coding Program
+```
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshpratap01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=anshpratap01&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshpratap01&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=anshpratap01&icon=5&color=6)
+
+</div>
