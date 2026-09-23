@@ -1,129 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Ansh%20Pratap&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Quality%20%7C%20Full-Stack%20Development%20%7C%20AI%20Applications&descAlignY=60&descSize=16" width="100%" alt="Ansh Pratap header" />
+# Ansh Pratap
+
+### Software Quality Analyst | Full-Stack Developer | AI Enthusiast
 
 <a href="https://www.linkedin.com/in/ansh-pratap-93083133b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:anshpratap866@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/anshpratap01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/itxansh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:anshpratap866@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=anshpratap01&style=flat-square&color=2563eb" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=anshpratap01&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
 
 </div>
 
-## 👋 Hi, I'm Ansh
+## About Me
 
-> **Computer Science undergraduate building reliable software and testing it with purpose.**
-
-I am a B.Tech Computer Science student at **Noida Institute of Engineering and Technology (NIET)**, graduating in **June 2027**. My interests sit at the intersection of **software quality, full-stack development, backend systems, real-time applications, and AI-powered products**.
+Computer Science undergraduate with hands-on experience in **software testing, API validation, full-stack development, and AI-powered application building**. I enjoy turning business requirements into reliable, user-friendly products and validating them through structured testing, debugging, and automation.
 
 - 📍 Greater Noida, Uttar Pradesh, India
-- 🎓 B.Tech CSE — **CGPA: 8.42 / 10.0**
-- 🧪 Focused on manual testing, API testing, regression testing, and defect tracking
-- 🚀 Building practical full-stack and AI-enabled applications
-- 📚 Currently improving system design, automation, and scalable application development
+- 🎓 B.Tech in Computer Science & Engineering, NIET
+- 📈 CGPA: **8.42 / 10.0**
+- 🧠 Strong interest in: **Software Quality, Backend Development, System Design, APIs, and AI Applications**
 
-## 🧰 Tech stack
+## Core Skills
 
-<div align="center">
+### Technical Skills
+- **Languages:** JavaScript, Java, C, SQL
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, WebSockets
+- **Databases:** MongoDB, MySQL
+- **Testing & QA:** Manual Testing, Functional Testing, Regression Testing, API Testing, Defect Reporting, Test Case Design
+- **Tools:** Git, GitHub, Postman, Docker, VS Code
 
-| Languages | Frontend | Backend & Data | Quality & Tools |
-|:---:|:---:|:---:|:---:|
-| JavaScript · Java · C · SQL | React · HTML5 · CSS3 · Tailwind CSS | Node.js · Express · REST APIs · WebSockets · MongoDB · MySQL | Postman · Manual Testing · Regression Testing · Git · GitHub · Docker |
+## Professional Experience
 
-</div>
-
-## 💼 Experience
-
-### Software Quality Analyst Intern · Josh Technology Group
+### Software Quality Analyst Intern
+**Josh Technology Group**  
 *June 2026 – August 2026*
 
-- Tested and debugged production codebases for an AI interview platform and an HRMS product.
-- Validated REST API contracts using Postman and collaborated with engineers to reproduce and resolve defects.
-- Created test coverage for role-based access, validation, data consistency, edge cases, regression testing, and release readiness.
-- Worked with Agile/Scrum practices including sprint planning, test planning, execution, defect reporting, and release sign-off.
+- Tested and debugged production code for an AI interview platform and an HRMS product.
+- Validated REST API requests and responses using **Postman**, ensuring reliability and accuracy across features.
+- Wrote and executed **test cases** for functional flows, validation checks, edge scenarios, and regression cases.
+- Collaborated with engineering teams to reproduce issues, isolate root causes, and improve product quality.
+- Worked in an Agile environment and participated in sprint planning, defect tracking, and release sign-off.
 
-## 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## Projects
 
 ### InterviewIQ-AI
 **AI-powered mock interview platform**
 
-<a href="https://project-01-client.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="InterviewIQ-AI live demo" /></a>
-
-`React` `Express` `MongoDB` `Firebase Auth` `OpenRouter` `Razorpay`
-
-- Resume-based interview generation and role-specific questions
-- Voice-driven interviews using browser speech APIs
-- Automated performance reports and protected payment workflows
-- REST API integration, authentication, and server-side verification
-
-</td>
-<td width="50%" valign="top">
+- Built a full-stack interview platform for resume-based mock interviews and AI-generated questions.
+- Integrated LLM-based evaluation for role-specific prompts and generated insights from candidate responses.
+- Added voice-driven interview experiences using browser speech recognition and synthesis APIs.
+- Implemented protected payment workflows, secure API access, and report generation.
+- Tech Stack: **React, Express, MongoDB, Firebase Auth, OpenRouter, Razorpay**
+- Live Demo: https://project-01-client.onrender.com/
 
 ### SyncPad
 **Real-time collaborative code editor**
 
-<a href="https://syncpad-nine.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="SyncPad live demo" /></a>
+- Built a real-time collaborative editor with synchronized edits across sessions.
+- Used WebSockets for live communication and reduced issues caused by concurrent modifications.
+- Debugged connection failures and real-world collaboration edge cases during testing.
+- Improved session reliability through systematic testing and reconnection handling.
+- Tech Stack: **React, JavaScript, HTML, CSS, WebSockets**
+- Live Demo: https://syncpad-nine.vercel.app/
 
-`React` `JavaScript` `WebSockets` `HTML` `CSS`
+## Education
 
-- Real-time editing with event-driven WebSocket communication
-- Broadcasting and merging simultaneous edits across sessions
-- Debugged dropped connections and concurrency edge cases
-- Investigated reconnection and session-flow reliability issues
+### Bachelor of Technology in Computer Science & Engineering
+**Noida Institute of Engineering and Technology (NIET)**  
+*Graduation: June 2027*  
+**CGPA:** 8.42 / 10.0
 
-</td>
-</tr>
-</table>
+## Certifications & Achievements
 
-## 🏆 Highlights
+- **UiPath Student Developer Champion** — 2024–2025
+- **Google Student Ambassador** — 2025
+- **LeetCode** — 700+ problems solved
+- **GeeksforGeeks** — 200+ DSA problems solved
+- **AMCAT** — 85th percentile among engineering candidates
+- **EnglishScore** — CEFR C1 in Core Skills and Writing
 
-<div align="center">
-
-| LeetCode | GfG | AMCAT | CGPA |
-|:---:|:---:|:---:|:---:|
-| **700+** problems | **200+** problems | **85th** percentile | **8.42 / 10** |
-
-</div>
-
-- 🥇 **UiPath Student Developer Champion (2024–2025)**
-- 🏅 **Google Student Ambassador (2025)** — led workshops and initiatives for 100+ students
-- ✍️ **British Council EnglishScore** — CEFR C1 in Core Skills and Writing
-- 🔍 Consistent problem-solving practice through LeetCode and GeeksforGeeks
-
-## 📊 GitHub activity
+## GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/anshpratap01">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshpratap01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2563eb&icon_color=2563eb" alt="Ansh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshpratap01&show_icons=true&hide_border=true&theme=tokyonight" alt="Ansh's GitHub stats" />
 </a>
+
 <a href="https://github.com/anshpratap01">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpratap01&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpratap01&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </a>
 
 </div>
 
-## 🤝 Let's connect
+## Contact
 
-I am open to conversations and opportunities related to **software quality engineering, test automation, full-stack development, backend systems, and AI-enabled applications**.
+- **Email:** anshpratap866@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ansh-pratap-93083133b/
+- **GitHub:** https://github.com/anshpratap01
+- **LeetCode:** https://leetcode.com/u/itxansh/
 
 <div align="center">
 
-<a href="mailto:anshpratap866@gmail.com">📧 Email</a> ·
-<a href="https://www.linkedin.com/in/ansh-pratap-93083133b/">💼 LinkedIn</a> ·
-<a href="https://leetcode.com/u/itxansh/">🧠 LeetCode</a> ·
-<a href="https://github.com/anshpratap01">💻 GitHub</a>
-
-<br /><br />
-
-*Build thoughtfully. Test thoroughly. Ship reliably.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
+> I am open to opportunities in software quality, QA automation, backend development, and AI-enabled product engineering.
 
 </div>
