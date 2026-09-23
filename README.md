@@ -1,9 +1,7 @@
 <div align="center">
-
 <a href="https://github.com/anshpratap01">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshpratap01&theme=github-compact" alt="GitHub contribution activity graph for anshpratap01" />
+  <img src="https://ghchart.ravi.gg/api.svg?username=anshpratap01&theme=high-contrast" alt="GitHub contribution heatmap for anshpratap01" width="100%" />
 </a>
-
 </div>
 
 <div align="center">
