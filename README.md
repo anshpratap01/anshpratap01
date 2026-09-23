@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://github.com/anshpratap01">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshpratap01&theme=github-compact" alt="GitHub contribution activity graph for anshpratap01" />
+</a>
+
+</div>
+
+<div align="center">
+
 # Ansh Pratap
 
 ### Software Quality Analyst | Full-Stack Developer | AI Enthusiast
