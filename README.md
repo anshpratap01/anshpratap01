@@ -1,25 +1,30 @@
 <div align="center">
-<a href="https://github.com/anshpratap01">
-  <img src="https://ghchart.ravi.gg/api.svg?username=anshpratap01&theme=high-contrast" alt="GitHub contribution heatmap for anshpratap01" width="100%" />
-</a>
+  <a href="https://github.com/anshpratap01" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://gh-heat.anishroy.com/api/anshpratap01/svg?theme=green&darkMode=true"
+      alt="GitHub contribution heatmap for Ansh Pratap"
+      width="960"
+    />
+  </a>
 </div>
 
 <div align="center">
-
-# Ansh Pratap
-
-### Software Quality Analyst | Full-Stack Developer | AI Enthusiast
-
-<a href="https://www.linkedin.com/in/ansh-pratap-93083133b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/anshpratap01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/itxansh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:anshpratap866@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <h1>Ansh Pratap</h1>
+  <p><strong>Software Quality Analyst | Full-Stack Developer | AI Enthusiast</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/ansh-pratap-93083133b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Ansh Pratap" /></a>
+    <a href="https://github.com/anshpratap01" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile for Ansh Pratap" /></a>
+    <a href="https://leetcode.com/u/itxansh/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile for Ansh Pratap" /></a>
+    <a href="mailto:anshpratap866@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ansh Pratap" /></a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=anshpratap01&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views counter for Ansh Pratap" width="220" />
+  </p>
+</div>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=anshpratap01&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
-
-</div>
+---
 
 ## About Me
 
